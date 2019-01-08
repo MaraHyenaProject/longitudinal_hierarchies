@@ -1,0 +1,100 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">delta_passive</caption>
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Comparison</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; "></th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Estimate</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">CI</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">I&SI - Informed MatReorder</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">*</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[0, 0.22]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed Elo - Informed MatReorder</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.08, 0.15]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Elo - Informed MatReorder</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.07, 0.16]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed David's Score - Informed MatReorder</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.09, 0.14]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">David's Score - Informed MatReorder</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.06, 0.17]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed Elo - I&SI</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.19, 0.03]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Elo - I&SI</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.18, 0.04]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed David's Score - I&SI</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.2, 0.02]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">David's Score - I&SI</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.17, 0.05]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Elo - Informed Elo</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.1, 0.12]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed David's Score - Informed Elo</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.12, 0.1]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">David's Score - Informed Elo</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.09, 0.13]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Informed David's Score - Elo</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">-0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.13, 0.09]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">David's Score - Elo</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">[-0.1, 0.12]</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">David's Score - Informed David's Score</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; "> </td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">[-0.08, 0.14]</td>
+</tr>
+</table>
+
