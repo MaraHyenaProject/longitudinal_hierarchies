@@ -67,4 +67,4 @@ model.changes.p <- female.ranks %>%
   summarise(delta.active = sum(abs(delta.active), na.rm = TRUE)) %>%
   as.data.frame()
 
-save(model.changes.p, file = '18.model_changes_p.Rdata')
+save(model.changes.p, file = '18.data_variable_periods.Rdata')

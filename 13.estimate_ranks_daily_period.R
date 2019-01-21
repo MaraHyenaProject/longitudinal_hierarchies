@@ -18,7 +18,7 @@ library(EloRating)
 
 setwd('~/Documents/Research/Longitudinal_Hierarchies/FinalSubmission/')
 
-load('12.period_per_interaction.RData')
+load('12.hyena_data_daily_period.RData')
 
 set.seed(1989)
 

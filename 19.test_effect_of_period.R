@@ -19,7 +19,7 @@ library(viridis)
 
 setwd('~/Documents/Research/Longitudinal_Hierarchies/FinalSubmission/')
 source('0.define_functions.R')
-load('18.model_changes_p.Rdata')
+load('18.data_variable_periods.Rdata')
 
 
 cols = viridis(4)

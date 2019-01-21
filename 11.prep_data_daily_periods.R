@@ -177,7 +177,7 @@ female.contestants <- contestants
 female.interactions <- select(interactions, winner, loser, period)
 
 
-save(file = '../12.period_per_interaction.RData',
+save(file = '../12.hyena_data_daily_period.RData',
      list = c('female.contestants', 'female.interactions', 'female.initial.ranks'))
 
 setwd('../')
